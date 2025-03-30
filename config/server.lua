@@ -1,7 +1,7 @@
 return {
-    maxItemsReceived 	= 5,
-    minItemReceivedQty 	= 2,
-    maxItemReceivedQty 	= 6,
+    maxItemsReceived 	= 4,
+    minItemReceivedQty 	= 1,
+    maxItemReceivedQty 	= 4,
     chanceItem 			= 'cryptostick',
     luckyItem 			= 'rubber',
     itemTable = {
